@@ -5,6 +5,6 @@ Uma tarefa muito comúm do dia a dia seria realizar requisições HTTP e consumi
 
 Para exemplo do post, vamos consumir um serviço para buscas de CEP, os passos que deveriamos seguir são:
 
-´Desenhar o layout
-Consumir nosso serviço
-Mostrar os dados consumidos para o usuário´
+`- Desenhar o layout
+- Consumir nosso serviço
+- Mostrar os dados consumidos para o usuário`
